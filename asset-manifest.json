@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-shirt-designer/static/css/main.72f2639c.css",
-    "main.js": "/my-shirt-designer/static/js/main.a3b258b0.js",
+    "main.js": "/my-shirt-designer/static/js/main.7732448e.js",
     "static/js/239.3ceee1f6.chunk.js": "/my-shirt-designer/static/js/239.3ceee1f6.chunk.js",
     "static/media/MainImg.png": "/my-shirt-designer/static/media/MainImg.7dbc5cfdb0f1952349a2.png",
     "static/media/football.png": "/my-shirt-designer/static/media/football.c5ae627552654242fdd5.png",
@@ -33,11 +33,11 @@
     "static/media/body.png": "/my-shirt-designer/static/media/body.56e6d6e5263c292775ee.png",
     "index.html": "/my-shirt-designer/index.html",
     "main.72f2639c.css.map": "/my-shirt-designer/static/css/main.72f2639c.css.map",
-    "main.a3b258b0.js.map": "/my-shirt-designer/static/js/main.a3b258b0.js.map",
+    "main.7732448e.js.map": "/my-shirt-designer/static/js/main.7732448e.js.map",
     "239.3ceee1f6.chunk.js.map": "/my-shirt-designer/static/js/239.3ceee1f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72f2639c.css",
-    "static/js/main.a3b258b0.js"
+    "static/js/main.7732448e.js"
   ]
 }
